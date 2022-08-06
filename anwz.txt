@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color:powerpink;"> 
+    <h1>My Fuji Profile</h1>
+
+    <a href="https://www.facebook.com/anw.ker/">Facebook</a>
+    <p1>Or</p1>
+    <a href=https://www.instagram.com/a.anwxt>Instagram</a>
+    <br>
+
+
+    <br>
+    <img src="../picture/catt.jpg" alt="Fuji Cat" width="500px" height="500px">
+</body>
+</html>
