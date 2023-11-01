@@ -13,8 +13,6 @@ Student : 🧑‍💻 KMUTT
 * 🌍  I'm based in Bangkok , Thailand
 * 🖥️  See my portfolio at [Website](http://www.fujipp.com)
 * ✉️  You can contact me at [fuji.official@gmail.com](mailto:fuji.official@gmail.com)
-* 🧠  I'm learning All Script
-* 🤝  I'm open to collaborating on Web App and Mobile App Projects
 
 ### Skills
 
