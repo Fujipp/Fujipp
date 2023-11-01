@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anawat Grudtoop (FUJI)
 ==============================================================================================================================================
 
-Student : 🧑‍💻 KMUTT
----------------------
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="300"/>
 </div>
+
+Student : 🧑‍💻 KMUTT
+---------------------
 
 🧑‍🎓 I'm a second-year student at King Mongkut's University of Technology Thonburi, and I'm highly motivated to gain new experiences. I've recently committed to my studies during my second year, aiming to become a skilled programmer. I'm excited about the opportunities for personal growth and eagerly anticipate what the future has in store.
 
