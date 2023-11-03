@@ -43,4 +43,7 @@ Student : 🧑‍💻 KMUTT
 <details>
 <summary>Click for Basic-HTML-CSS-JAVASCRIPT-JAVA</summary>
 <a href="https://github.com/Fujipp/BASIC-HTML" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fujipp&repo=BASIC-HTML&icon_color=3382ed&title_color=3382ed&text_color=ffffff&bg_color=1c1917&theme=gruvbox""></a>
+<a href="https://github.com/Fujipp/BASIC-CSS" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fujipp&repo=BASIC-CSS&icon_color=3382ed&title_color=3382ed&text_color=ffffff&bg_color=1c1917&theme=gruvbox""></a>
+<a href="https://github.com/Fujipp/BASIC-HTML" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fujipp&repo=BASIC-HTML&icon_color=3382ed&title_color=3382ed&text_color=ffffff&bg_color=1c1917&theme=gruvbox""></a>
+<a href="https://github.com/Fujipp/BASIC-HTML" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fujipp&repo=BASIC-HTML&icon_color=3382ed&title_color=3382ed&text_color=ffffff&bg_color=1c1917&theme=gruvbox""></a>
 </details>
