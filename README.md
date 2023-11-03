@@ -38,9 +38,9 @@ Student : 🧑‍💻 KMUTT
 
 <a href="https://github.com/Fujipp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fujipp&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## :pencil2: HTML,CSS,JAVASCRIPT,JAVA :
+## :pencil2: LEARNING :
 
 <details>
-<summary>Click for GitHub Stats</summary>
+<summary>Click for Basic-HTML-CSS-JAVASCRIPT-JAVA</summary>
 <a href="https://github.com/Fujipp/BASIC-HTML" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fujipp&repo=BASIC-HTML&icon_color=3382ed&title_color=3382ed&text_color=ffffff&bg_color=1c1917&theme=gruvbox""></a>
 </details>
