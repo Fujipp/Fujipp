@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="300"/>
 </div>
-I'M INTERESTED IN :<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Frontend+Developer;Software+Engineer;DevOps" alt="Typing SVG" /></a>
+<div id="header" align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Software+Engineer;DevOps" alt="Typing SVG" /></a>
+</div>
+I'M INTERESTED IN :
 
 <img src="https://komarev.com/ghpvc/?username=fujipp&style=flat-square&color=blue" alt=""/>
 
