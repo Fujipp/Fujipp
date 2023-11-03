@@ -5,11 +5,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="300"/>
 </div>
 <img src="https://komarev.com/ghpvc/?username=fujipp&style=flat-square&color=blue" alt=""/>
-
+<p align="center">I,M INTERESTED IN
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Frontend+Developer;Software+Engineer;DevOps" alt="Typing SVG" /></a>
+</p>
 
 Student : 🧑‍💻 KMUTT
 ---------------------
-
 🧑‍🎓 I'm a second-year student at King Mongkut's University of Technology Thonburi, and I'm highly motivated to gain new experiences. I've recently committed to my studies during my second year, aiming to become a skilled programmer. I'm excited about the opportunities for personal growth and eagerly anticipate what the future has in store.
 
 * 🌍  I'm based in Bangkok , Thailand
