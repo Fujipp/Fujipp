@@ -40,4 +40,7 @@ Student : 🧑‍💻 KMUTT
 
 ## :pencil2: HTML,CSS,JAVASCRIPT,JAVA :
 
+<details>
+<summary>Click for GitHub Stats</summary>
 <a href="https://github.com/Fujipp/BASIC-HTML" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fujipp&repo=BASIC-HTML&theme=gruvbox""></a>
+</details>
