@@ -39,20 +39,8 @@ Student : 🧑‍💻 KMUTT
 <a href="https://github.com/Fujipp" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fujipp&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ## :pencil2: HTML,CSS,JAVASCRIPT,JAVA :
-<br />
 
-<div width="100%" align="center">
-  <a href="https://github.com/Fujipp/BASIC-HTML" align="left">
-    <img align="left" width="45%" src="URL รูปภาพ 1" />
-  </a>
-  <a href="https://github.com/Pheeraphat47/News-Homepage" align="right">
-    <img align="right" width="45%" src="URL รูปภาพ 2" />
-  </a>
-</div>
-<br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center">
-  <a href="https://github.com/Pheeraphat47/sunnyside-agency-landingpage" align="left">
-    <img align="left" width="45%" src="URL รูปภาพ 3" />
-  </a>
-</div>
+<a href="https://github.com/Fujipp/BASIC-HTML" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fujipp&repo=BASIC-HTML&theme=gruvbox""></a>
+<a href="https://github.com/rafi0101/Stundenplan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Stundenplan&theme=gruvbox""></a>
+<a href="https://github.com/rafi0101/traefik-ssl-certificate-exporter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=traefik-ssl-certificate-exporter&theme=gruvbox""></a>
+<a href="https://github.com/rafi0101/logstash-pipelines" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=logstash-pipelines&theme=gruvbox""></a>  
