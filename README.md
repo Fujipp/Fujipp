@@ -41,6 +41,3 @@ Student : 🧑‍💻 KMUTT
 ## :pencil2: HTML,CSS,JAVASCRIPT,JAVA :
 
 <a href="https://github.com/Fujipp/BASIC-HTML" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fujipp&repo=BASIC-HTML&theme=gruvbox""></a>
-<a href="https://github.com/rafi0101/Stundenplan" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=Stundenplan&theme=gruvbox""></a>
-<a href="https://github.com/rafi0101/traefik-ssl-certificate-exporter" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=traefik-ssl-certificate-exporter&theme=gruvbox""></a>
-<a href="https://github.com/rafi0101/logstash-pipelines" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafi0101&repo=logstash-pipelines&theme=gruvbox""></a>  
