@@ -29,7 +29,7 @@ Student : 🧑‍💻 KMUTT
 
 <h3 align="left">Tools:</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio,dotnet,wordpress,replit,firebase,bots,idea,linux,blender,netlify,vercel,vite,vim&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio,dotnet,wordpress,replit,firebase,bots,idea,linux,blender,netlify,vercel,vite,vim,unity,ps,pr&perline=10)](https://skillicons.dev)
 
 </div>
 ### 📊 My GitHub Stats :
