@@ -24,7 +24,6 @@ Student : 🧑‍💻 KMUTT
 
 ### Skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,mysql,py,tailwind,react,nodejs,vue,c,express,graphql,nextjs,flutter,redux,materialui,&perline=9)](https://skillicons.dev)
-
 ### Tools:
 [![My Skills](https://skillicons.dev/icons?i=figma,git,linux,github,netlify,vercel,vite,vim,vscode,idea)](https://skillicons.dev)
 
