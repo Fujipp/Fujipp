@@ -23,11 +23,10 @@ Student : 🧑‍💻 KMUTT
 <p align="left"> <a href="https://discord.com/users/685530578082463804" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/fujipp" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Fujipp" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/v.vnwxt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
 
 ### Skills:
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,mysql,py,tailwind,react,nodejs,vue,c,express,graphql,nextjs,flutter,redux,materialui,&perline=9)](https://skillicons.dev)
 
 ### Tools:
-
+[![My Skills](https://skillicons.dev/icons?i=figma,git,linux,github,netlify,vercel,vite,vim,vscode,idea)](https://skillicons.dev)
 
 ### 📊 My GitHub Stats :
 
