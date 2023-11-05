@@ -26,12 +26,11 @@ Student : 🧑‍💻 KMUTT
 <h3 >Skills:</h3>
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,mysql,py,tailwind,bootstrap,react,php,nodejs,vue,c,express,graphql,nextjs,flutter,redux,materialui,&perline=10)](https://skillicons.dev)
-
 <h3 align="left">Tools:</h3>
-  
-[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio,dotnet,wordpress,replit,firebase,bots,idea,linux,blender,netlify,vercel,vite,vim,unity,ps,pr&perline=10)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio,dotnet,wordpress,replit,firebase,bots,idea,linux,blender,netlify,vercel,vite,vim,unity,ps,pr&perline=10)](https://skillicons.dev)
 </div>
+
 ### 📊 My GitHub Stats :
 
 <div style="display: flex;>
