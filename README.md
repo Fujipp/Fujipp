@@ -12,7 +12,7 @@ FUJI GITHUB
 
 Student : 🧑‍💻 KMUTT
 ---------------------
-🧑‍🎓 I'm a second-year student at King Mongkut's University of Technology Thonburi, and I'm highly motivated to gain new experiences. I've recently committed to my studies during my second year, aiming to become a skilled programmer. I'm excited about the opportunities for personal growth and eagerly anticipate what the future has in store.
+🧑‍🎓 Hi My name is Anawat Grudtoop you can all me <span style="color="blue"">Fuji</span> I'm a second-year student at King Mongkut's University of Technology Thonburi, and I'm highly motivated to gain new experiences. I've recently committed to my studies during my second year, aiming to become a skilled programmer. I'm excited about the opportunities for personal growth and eagerly anticipate what the future has in store.
 
 * 🌍  I'm based in Bangkok , Thailand
 * 🖥️  See my portfolio at [Website](http://www.fujipp.com)
