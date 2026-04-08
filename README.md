@@ -46,13 +46,17 @@ I'm **Anawat Grudtoop (Fuji)** — an **Information Technology student** at King
 
 ## Tech Stack
 
-**Frontend**
+**Languages**
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,vue,tailwind&perline=10)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,java&perline=10)](https://skillicons.dev)
 
-**Backend**
+**Frontend** *(Frameworks & Libraries)*
 
-[![Backend](https://skillicons.dev/icons?i=java,spring,nodejs&perline=10)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=vue,tailwind&perline=10)](https://skillicons.dev)
+
+**Backend** *(Frameworks & Runtime)*
+
+[![Backend](https://skillicons.dev/icons?i=spring,nodejs&perline=10)](https://skillicons.dev)
 
 **Database**
 
@@ -79,11 +83,7 @@ I'm **Anawat Grudtoop (Fuji)** — an **Information Technology student** at King
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fujipp&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&layout=compact&custom_title=Top%20Languages" height="160" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fujipp&bg_color=1c1917&color=3382ed&line=3382ed&point=ffffff&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fujipp&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&layout=compact&custom_title=Top%20Languages" />
 </div>
 
 ---
@@ -91,7 +91,7 @@ I'm **Anawat Grudtoop (Fuji)** — an **Information Technology student** at King
 ## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fujipp&theme=nord&no-frame=true&no-bg=false&margin-w=6&column=7" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Fujipp&theme=nord&no-frame=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
