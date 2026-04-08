@@ -44,54 +44,129 @@ I'm **Anawat Grudtoop (Fuji)** — an **Information Technology student** at King
 
 ---
 
-## Tech Stack
+<h2 align="center">⚙️ Tech Stack ⚙️</h2>
 
-**Languages**
+<table align="center" width="100%">
 
-[![Languages](https://skillicons.dev/icons?i=html,css,js,java&perline=10)](https://skillicons.dev)
+<tr>
+<td width="50%">
 
-**Frontend** *(Frameworks & Libraries)*
+### Languages
 
-[![Frontend](https://skillicons.dev/icons?i=vue,tailwind&perline=10)](https://skillicons.dev)
+<div align="center">
+<img height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img height="30px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img height="30px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img height="30px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</div>
 
-**Backend** *(Frameworks & Runtime)*
+</td>
+<td width="50%">
 
-[![Backend](https://skillicons.dev/icons?i=spring,nodejs&perline=10)](https://skillicons.dev)
+### Frontend
 
-**Database**
+<div align="center">
+<img height="30px" src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img height="30px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</div>
 
-[![Database](https://skillicons.dev/icons?i=mysql&perline=10)](https://skillicons.dev)
+</td>
+</tr>
 
-**Tools & Design**
+<tr>
+<td>
 
-[![Tools](https://skillicons.dev/icons?i=figma,git,github,vscode&perline=10)](https://skillicons.dev)
+### Backend
 
-**AI Agents I Use**
+<div align="center">
+<img height="30px" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+<img height="30px" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</div>
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+</td>
+<td>
+
+### Database
+
+<div align="center">
+<img height="30px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### Tools & Design
+
+<div align="center">
+<img height="30px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img height="30px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img height="30px" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img height="30px" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### AI Agents I Use
+
+<div align="center">
+<img height="30px" src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img height="30px" src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img height="30px" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img height="30px" src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-## GitHub Stats
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fujipp&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=Fujipp&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="170" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fujipp&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&layout=compact&custom_title=Top%20Languages" />
-</div>
+<table>
+<thead>
+<tr>
+<th><div align="center">Streak</div></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<img src="https://streak-stats.demolab.com/?user=Fujipp&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</td>
+</tr>
+</tbody>
+</table>
 
----
+<table>
+<thead>
+<tr>
+<th><div align="center">Stats</div></th>
+<th><div align="center">Top Languages</div></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Fujipp&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true" height="180px" />
+</td>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fujipp&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&layout=compact&custom_title=Top%20Languages" height="180px" />
+</td>
+</tr>
+</tbody>
+</table>
 
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fujipp&theme=nord&no-frame=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
