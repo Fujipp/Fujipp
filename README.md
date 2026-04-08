@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="200"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Software+Engineer;DevOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer;Backend+Developer;Full-Stack+Student;AI+Agent+Explorer" alt="Typing SVG" />
   </a>
 
   <img src="https://komarev.com/ghpvc/?username=fujipp&style=flat-square&color=blue" alt="Profile Views"/>
@@ -12,10 +12,10 @@
 
 ## Hi, I'm Anawat Grudtoop — Fuji 👋
 
-I'm a **Computer Engineering student** at King Mongkut's University of Technology Thonburi (KMUTT), passionate about building modern web applications and growing as a full-stack developer. I'm motivated by clean code, great user experiences, and continuous learning.
+I'm an **Information Technology student** at King Mongkut's University of Technology Thonburi (KMUTT), passionate about building modern web applications and growing as a full-stack developer. I'm motivated by clean code, great user experiences, and continuous learning.
 
 - 🌍 Based in **Bangkok, Thailand**
-- 🎓 2nd-year student at **KMUTT**
+- 🎓 Bachelor's in **Information Technology** at KMUTT (4-year program)
 - 🖥️ Portfolio: [fujipp.com](http://www.fujipp.com)
 - ✉️ Contact: [fujipp.official@gmail.com](mailto:fujipp.official@gmail.com)
 
@@ -50,13 +50,29 @@ I'm a **Computer Engineering student** at King Mongkut's University of Technolog
 
 ## Tech Stack
 
-**Languages & Frameworks**
+**Frontend**
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,mysql,py,tailwind,bootstrap,react,php,nodejs,vue,c,express,graphql,nextjs,flutter,redux,materialui&perline=10)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,js,vue,tailwind&perline=10)](https://skillicons.dev)
 
-**Tools & Platforms**
+**Backend**
 
-[![Tools](https://skillicons.dev/icons?i=figma,git,github,vscode,visualstudio,dotnet,wordpress,replit,firebase,bots,idea,linux,blender,netlify,vercel,vite,vim,unity,ps,pr&perline=10)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=java,spring,nodejs&perline=10)](https://skillicons.dev)
+
+**Database**
+
+[![Database](https://skillicons.dev/icons?i=mysql&perline=10)](https://skillicons.dev)
+
+**UI Design**
+
+[![UI](https://skillicons.dev/icons?i=figma&perline=10)](https://skillicons.dev)
+
+**AI Agents**
+
+![ChatGPT](https://img.shields.io/badge/GPT--5.4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_Pro_3.1-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Opus%2FSonnet_4.6-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen3.6_Plus-6E44FF?style=for-the-badge&logo=alibabadotcom&logoColor=white)
 
 ---
 
